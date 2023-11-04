@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h</location>
+			<title>NRK P1 Stor-Oslo</title>
+			<creator>NRK Østlandssendingen</creator>
+			<image>file:///C:/Users/hotdo/AppData/Roaming/vlc/art/arturl/b7fa782f8d2cf4c3eca43eb31b4fc7ec/art</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://lyd.nrk.no:80/nrk_radio_p1pluss_mp3_h?_hdr=0</location>
+			<title>NRK P1+</title>
+			<creator>NRK P1+</creator>
+			<image>https://radio.nrk.no/dist/images/channel-logos/p1pluss.svg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://lyd.nrk.no/nrk_radio_p2_mp3_h</location>
+			<title>NRK P2 </title>
+			<creator>NRK P2</creator>
+			<image>https://radio.nrk.no/dist/images/channel-logos/p2.svg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://lyd.nrk.no/nrk_radio_p3_mp3_h</location>
+			<title>NRK P3 </title>
+			<creator>NRK P3</creator>
+			<image>https://radio.nrk.no/dist/images/channel-logos/p3.svg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://lyd.nrk.no/nrk_radio_p13_mp3_h</location>
+			<title>NRK P13 </title>
+			<creator>NRK P13</creator>
+			<image>https://radio.nrk.no/dist/images/channel-logos/p13.svg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://lyd.nrk.no:80/nrk_radio_alltid_nyheter_mp3_h</location>
+			<title>NRK Alltid Nyheter</title>
+			<creator>NRK Alltid Nyheter</creator>
+			<annotation>Stream Title: NRK Alltid Nyheter
+			</annotation>
+			<image>https://radio.nrk.no/dist/images/channel-logos/alltid_nyheter.svg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://lyd.nrk.no/nrk_radio_klassisk_mp3_h</location>
+			<title>NRK Klassisk </title>
+			<creator>NRK Klassisk</creator>
+			<image>https://radio.nrk.no/dist/images/channel-logos/klassisk.svg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://lyd.nrk.no:80/nrk_radio_jazz_mp3_h?_hdr=0</location>
+			<title>NRK Jazz</title>
+			<creator>NRK Jazz</creator>
+			<image>file:///C:/Users/hotdo/AppData/Roaming/vlc/art/arturl/dc307fab841434553fde89020b0355a0/art</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live-icy.gslb01.dr.dk:80/A/A22H.mp3</location>
+			<title>P8 Jazz</title>
+			<creator>DR P8 Jazz</creator>
+			<image>file:///C:/Users/hotdo/AppData/Roaming/vlc/art/arturl/285438aa123b163287ca86db9a1a7406/art</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://http-live.sr.se/p1-mp3-192</location>
+			<title>SR P1</title>
+			<creator>Sveries Radio</creator>
+			<image>file:///C:/Users/hotdo/AppData/Roaming/vlc/art/arturl/12d89cba27a7738d7a92791171bb2c2b/art</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://http-live.sr.se/p2musik-aac-320</location>
+			<title>SR P2</title>
+			<creator>Sveries Radio</creator>
+			<image>file:///C:/Users/hotdo/AppData/Roaming/vlc/art/arturl/d24081a913361844e6eb9b0f7223e973/art</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://http-live.sr.se/p3-mp3-192</location>
+			<title>SR P3</title>
+			<creator>Sveries Radio</creator>
+			<image>file:///C:/Users/hotdo/AppData/Roaming/vlc/art/arturl/1f1c602eb6b7e19de44b692d6789a291/art</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://http-live.sr.se/ekotsanderdirekt-mp3-192</location>
+			<title>SR EKOT</title>
+			<creator>Sveries Radio</creator>
+			<image>file:///C:/Users/hotdo/AppData/Roaming/vlc/art/arturl/a5ad77751ed384da8987d33bb1b94130/art</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live-radio02.mediahubaustralia.com/2RNW/mp3/</location>
+			<title>ABC RN NSW</title>
+			<creator>ABC Radio National</creator>
+			<image>file:///C:/Users/hotdo/AppData/Roaming/vlc/art/arturl/33e9b45352049e852717a71b07987113/art</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://8radio.serverroom.net:80/stream</location>
+			<creator>8Radio - Dublin</creator>
+			<image>file:///C:/Users/hotdo/AppData/Roaming/vlc/art/arturl/58c2b6e2791c72877e4838dceaf770c6/art</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8</location>
+			<duration>32000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_two.m3u8</location>
+			<duration>32000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_6music.m3u8</location>
+			<duration>32000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8</location>
+			<duration>32000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://jazzradio.ice.infomaniak.ch/jazzradio-villefranche.aac</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.tunerplay.com/radio/8020/jazzradiospain.mp3</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.zeno.fm/tvt6bya8hg8uv</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://173.249.21.17:8114/stream</location>
+			<title>BluesMen Channel (Gold)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://193.108.118.145:8400/stream</location>
+			<title>EKR - RETRO ROCK</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://193.108.118.145:8100/stream</location>
+			<title>EKR EUROPEAN KLASSIK ROCK</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+	</extension>
+</playlist>
